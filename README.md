@@ -1,4 +1,5 @@
 # Toxicity Assay Result Prediction
+Link to the Tox21 data: http://bioinf.jku.at/research/DeepTox/tox21.html
 
 −	Generated more than 800 features for over 10K chemicals in Tox21 Database
 
@@ -6,6 +7,6 @@
 
 −	Tuned and validated models through hyperparameter search and cross-validation, achieving the best AUC score of 0.896.
 
-Code sample:
+Code samples:
   RF_cv.py
   SVM_cv.py
